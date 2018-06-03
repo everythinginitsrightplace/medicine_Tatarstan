@@ -1,2 +1,2 @@
 # medicine_Tatarstan
-Данные и код, использованный для написания статьи на The Society
+Данные и код, использованный для написания статьи http://thesociety.ru/health
